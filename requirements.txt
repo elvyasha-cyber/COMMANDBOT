@@ -1,0 +1,5 @@
+haystack-ai
+pinecone-haystack
+pyTelegramBotAPI
+python-dotenv
+numpy==2.2.6
